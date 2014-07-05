@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "es.up3.dogduck"
+    version   = "1.0.0">
+
+<name>test</name>
+
+<description>
+test ver 1.0.0
+</description>
+
+<author href="https://solucionbase.es" email="veronica@solucionbase.es">
+SolucionBase
+</author>
+
+</widget>
